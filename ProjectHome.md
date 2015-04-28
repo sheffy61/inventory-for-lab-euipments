@@ -1,0 +1,1 @@
+Creating an inventory for laboratory equipments.
